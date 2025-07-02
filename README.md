@@ -9,7 +9,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=koustavbetal&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/koustav_betal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/koustavbetal) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/koustavbetal) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@linksnjoints) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:koustavbetal.official@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/koustav_betal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/koustavbetal) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/koustavbetal) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@linksnjoints) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:koustavbetal.official@gmail.com) 
 ---
 [![](https://visitcount.itsvg.in/api?id=koustavbetal&icon=1&color=0)](https://visitcount.itsvg.in)
 
